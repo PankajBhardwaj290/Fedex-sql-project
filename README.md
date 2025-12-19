@@ -1,9 +1,9 @@
 # FedEx Logistics Optimization – SQL Analytics Project
-##📌 Project Overview
+📌 Project Overview
 
 #This project focuses on analyzing and optimizing FedEx logistics operations using SQL-based data analysis. The objective is to identify delivery delays, warehouse inefficiencies, route bottlenecks, and agent performance issues, and to provide data-driven business recommendations for improving overall operational efficiency and service-level performance.
 
-##🎯 Key Objectives
+🎯 Key Objectives
 
 Clean and prepare logistics datasets for analysis
 
@@ -15,7 +15,7 @@ Analyze route efficiency and delay patterns
 
 Assess delivery agent performance using ranking and percentage metrics
 
-##🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 SQL (MySQL / PostgreSQL / SQL Server compatible queries)
 
